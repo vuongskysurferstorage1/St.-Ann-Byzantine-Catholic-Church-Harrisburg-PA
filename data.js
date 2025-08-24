@@ -28,16 +28,22 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": 0.9780742590472506,
-        "pitch": 0,
+        "yaw": 0.08441975846529637,
+        "pitch": 0.15807749236338964,
         "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 2.834775263743987,
-          "pitch": 0.3519867446639946,
+          "yaw": 1.382135934691341,
+          "pitch": 0.35928864767236135,
           "rotation": 0,
           "target": "1-st-ann-byzantine-catholic-church-harrisburg-pa"
+        },
+        {
+          "yaw": 0.0073368431307141435,
+          "pitch": 0.16179074176287145,
+          "rotation": 0,
+          "target": "2-st-ann-byzantine-catholic-church-harrisburg-pa"
         }
       ],
       "infoHotspots": []
@@ -70,22 +76,16 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": 0.08441975846529637,
-        "pitch": 0.15807749236338964,
+        "yaw": 0.9780742590472506,
+        "pitch": 0,
         "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
-          "yaw": 1.382135934691341,
-          "pitch": 0.35928864767236135,
+          "yaw": 2.834775263743987,
+          "pitch": 0.3519867446639946,
           "rotation": 0,
           "target": "0-st-ann-byzantine-catholic-church-harrisburg-pa"
-        },
-        {
-          "yaw": 0.0073368431307141435,
-          "pitch": 0.16179074176287145,
-          "rotation": 0,
-          "target": "2-st-ann-byzantine-catholic-church-harrisburg-pa"
         }
       ],
       "infoHotspots": []
@@ -127,7 +127,7 @@ var APP_DATA = {
           "yaw": 3.1103289403942664,
           "pitch": 0.2276136506709463,
           "rotation": 0,
-          "target": "1-st-ann-byzantine-catholic-church-harrisburg-pa"
+          "target": "0-st-ann-byzantine-catholic-church-harrisburg-pa"
         },
         {
           "yaw": -0.028474058788454215,
@@ -139,7 +139,7 @@ var APP_DATA = {
           "yaw": -0.028658846882491318,
           "pitch": 0.13009955140384832,
           "rotation": 0,
-          "target": "4-st-ann-byzantine-catholic-church-harrisburg-pa"
+          "target": "4-dji_20241026115221_0363_d"
         }
       ],
       "infoHotspots": []
@@ -187,20 +187,20 @@ var APP_DATA = {
           "yaw": 0.009035307870075115,
           "pitch": 0.3039879044905689,
           "rotation": 0,
-          "target": "1-st-ann-byzantine-catholic-church-harrisburg-pa"
+          "target": "0-st-ann-byzantine-catholic-church-harrisburg-pa"
         },
         {
           "yaw": -3.118813324488274,
           "pitch": 0.9175307713969243,
           "rotation": 0,
-          "target": "4-st-ann-byzantine-catholic-church-harrisburg-pa"
+          "target": "4-dji_20241026115221_0363_d"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4-st-ann-byzantine-catholic-church-harrisburg-pa",
-      "name": "St. Ann Byzantine Catholic Church Harrisburg, PA",
+      "id": "4-dji_20241026115221_0363_d",
+      "name": "DJI_20241026115221_0363_D",
       "levels": [
         {
           "tileSize": 256,
@@ -232,14 +232,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.1239502568059443,
-          "pitch": -0.9445714636108349,
+          "yaw": 3.1324066300287896,
+          "pitch": -0.9341194638693882,
           "rotation": 0,
           "target": "3-st-ann-byzantine-catholic-church-harrisburg-pa"
         },
         {
-          "yaw": -3.1387981875389706,
-          "pitch": 0.07857949883964643,
+          "yaw": -3.13924243203515,
+          "pitch": 0.07310486000439909,
           "rotation": 0,
           "target": "2-st-ann-byzantine-catholic-church-harrisburg-pa"
         }
