@@ -70,8 +70,8 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": -0.06959108672862513,
-        "pitch": 0.13244457689961564,
+        "yaw": 0.7438757077998837,
+        "pitch": 0,
         "fov": 1.4134061960355204
       },
       "linkHotspots": [
