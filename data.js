@@ -70,9 +70,9 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.06959108672862513,
+        "pitch": 0.13244457689961564,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
@@ -238,8 +238,8 @@ var APP_DATA = {
           "target": "3-st-ann-byzantine-catholic-church-harrisburg-pa"
         },
         {
-          "yaw": -3.1387981880174323,
-          "pitch": 0.07857950278668291,
+          "yaw": -3.1387981875389706,
+          "pitch": 0.07857949883964643,
           "rotation": 0,
           "target": "2-st-ann-byzantine-catholic-church-harrisburg-pa"
         }
