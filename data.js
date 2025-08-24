@@ -139,7 +139,7 @@ var APP_DATA = {
           "yaw": -0.028658846882491318,
           "pitch": 0.13009955140384832,
           "rotation": 0,
-          "target": "4-dji_20241026115221_0363_d"
+          "target": "4-st-ann-byzantine-catholic-church-harrisburg-pa"
         }
       ],
       "infoHotspots": []
@@ -193,14 +193,14 @@ var APP_DATA = {
           "yaw": -3.118813324488274,
           "pitch": 0.9175307713969243,
           "rotation": 0,
-          "target": "4-dji_20241026115221_0363_d"
+          "target": "4-st-ann-byzantine-catholic-church-harrisburg-pa"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4-dji_20241026115221_0363_d",
-      "name": "DJI_20241026115221_0363_D",
+      "id": "4-st-ann-byzantine-catholic-church-harrisburg-pa",
+      "name": "St. Ann Byzantine Catholic Church Harrisburg, PA",
       "levels": [
         {
           "tileSize": 256,
